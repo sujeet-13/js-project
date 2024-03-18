@@ -1,0 +1,162 @@
+.banner-section{
+    background-image: url("istockphoto-1453843862-612x612.jpg");
+    background-size: cover;
+    background-repeat: round;
+    background-repeat: no-repeat;
+    height: 500px ;
+    width: 100%;
+    position: relative;
+}
+.box{
+    width: 300px;
+    padding: 20px;
+    font-size: 25px;
+    color: #fff;
+    float: left;
+    margin-left: 20px;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+}
+.box1{
+    width: 300px;
+    padding: 20px;
+    font-size: 25px;
+    color: #fff;
+    float: left;
+    margin-left: 20px;
+    position: absolute;
+    top: 90%;
+    left: 69%;
+}
+.por{
+    margin-top: 250px;
+}
+.hands{
+    float: right;
+    /* position: absolute; */
+    /* padding-top: 20px; */
+    margin-left: 0%;
+    top: 50%;
+}
+
+
+.fullw{
+    background-image:url("companyvale.jpeg");
+    color: black;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+
+
+}
+.pic{
+    background-image: url("company\ vale.jpeg");
+    background-size: cover;
+    background-repeat: round;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.cup{
+    margin-right: 0%;
+}
+.hands{
+    margin-left: 0%;
+    top: 50%;
+}
+.full{
+    margin-top: 100px;
+    background-image: url(pen.jpg);
+    height: 100px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: round;
+    background-repeat: no-repeat;
+}
+.services{
+    text-align: center;
+    margin-top: 150px;
+}
+.lorem{
+    text-align: justify;
+}
+.cards{
+    /* border: 2px solid; */
+}
+.cardo{
+    /* border: 2px solid blue; */
+}
+.tax{
+    padding: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+    /* float: right; */
+}
+.back{
+    height: 500px;
+}
+.logo{
+    
+}
+.ipsum{
+    float: right;
+    text-align: center;
+    
+}
+.choose{
+    margin-top: 50px;
+}
+.two{
+    margin-top: 20px;
+}
+input[type="range"]
+{
+    width: 100%;
+}
+.review{
+    margin-top: 70px;
+}
+.box3{
+    height: 50px;
+    width: 125px;
+    padding: 7px;
+    position: absolute;
+    top: 85%;
+    border-radius: 10px;
+}
+.patel{
+    border: solid 3px grey;
+}
+.bar{
+    background-image: url(freestocks-I_pOqP6kCOI-unsplash.jpg);
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+    background-size: cover;
+    background-repeat: round;
+    background-repeat: no-repeat;
+}
+.case{
+    text-align: center;
+    margin-top: 50px;
+}
+.ff{
+    /* border: 2px solid ; */
+}
+.cl{
+    width: 500px;
+    border-radius: 5px;
+}
+.risk{
+    border: 1px solid ;
+    border-radius: 5px;
+    width: 500px;
+}
+.risk-1{
+    border: 1px solid ;
+    border-radius: 5px;
+    width: 500px;
+    margin-top: 10px;
+}
